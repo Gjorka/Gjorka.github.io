@@ -9,5 +9,10 @@ var data =
         "title":"Spam Sms",
         "unduh":"https://github.com/Gjorka/spam-sms",
         "date":"Min, 18 Sep"
+    },
+    {
+        "title":"Script Prank 2",
+        "unduh":"https://raw.githubusercontent.com/Gjorka/Gjorka.github.io/main/prank/prankv2.html",
+        "date":"Sen, 19 Sep"
     }
 ]
